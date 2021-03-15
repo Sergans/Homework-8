@@ -2,7 +2,7 @@
 
 namespace LessonLibrary
 {
-    public class Class1
+    public class ClasLib
     {
         public void Date()
         {
