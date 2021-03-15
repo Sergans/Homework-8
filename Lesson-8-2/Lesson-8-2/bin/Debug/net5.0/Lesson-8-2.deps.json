@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lesson-8-2/1.0.0": {
+        "dependencies": {
+          "LessonLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Lesson-8-2.dll": {}
+        }
+      },
+      "LessonLibrary/1.0.0": {
+        "runtime": {
+          "LessonLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson-8-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LessonLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

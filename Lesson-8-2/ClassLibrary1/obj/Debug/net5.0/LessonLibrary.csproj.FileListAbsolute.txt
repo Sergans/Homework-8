@@ -1,0 +1,12 @@
+C:\Users\GANS\Desktop\Homework-8\Lesson-8-2\ClassLibrary1\bin\Debug\net5.0\LessonLibrary.deps.json
+C:\Users\GANS\Desktop\Homework-8\Lesson-8-2\ClassLibrary1\bin\Debug\net5.0\LessonLibrary.dll
+C:\Users\GANS\Desktop\Homework-8\Lesson-8-2\ClassLibrary1\bin\Debug\net5.0\ref\LessonLibrary.dll
+C:\Users\GANS\Desktop\Homework-8\Lesson-8-2\ClassLibrary1\bin\Debug\net5.0\LessonLibrary.pdb
+C:\Users\GANS\Desktop\Homework-8\Lesson-8-2\ClassLibrary1\obj\Debug\net5.0\LessonLibrary.csprojAssemblyReference.cache
+C:\Users\GANS\Desktop\Homework-8\Lesson-8-2\ClassLibrary1\obj\Debug\net5.0\LessonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GANS\Desktop\Homework-8\Lesson-8-2\ClassLibrary1\obj\Debug\net5.0\LessonLibrary.AssemblyInfoInputs.cache
+C:\Users\GANS\Desktop\Homework-8\Lesson-8-2\ClassLibrary1\obj\Debug\net5.0\LessonLibrary.AssemblyInfo.cs
+C:\Users\GANS\Desktop\Homework-8\Lesson-8-2\ClassLibrary1\obj\Debug\net5.0\LessonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\GANS\Desktop\Homework-8\Lesson-8-2\ClassLibrary1\obj\Debug\net5.0\LessonLibrary.dll
+C:\Users\GANS\Desktop\Homework-8\Lesson-8-2\ClassLibrary1\obj\Debug\net5.0\ref\LessonLibrary.dll
+C:\Users\GANS\Desktop\Homework-8\Lesson-8-2\ClassLibrary1\obj\Debug\net5.0\LessonLibrary.pdb
