@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\GANS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\GANS\\.nuget\\packages"
+    ]
+  }
+}
