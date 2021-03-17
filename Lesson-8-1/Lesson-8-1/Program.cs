@@ -9,10 +9,10 @@ namespace Lesson_8_1
         {
             string processNameorId;
             //string processKill;
-            // bool YeNo=f;
+            // bool YeNo;
             Process[] sysprocess = Process.GetProcesses();
-            //Console.WriteLine("Вывод списка процессов");
-            //ListProcess(sysprocess);
+            
+            
 
             do
             {
@@ -20,8 +20,8 @@ namespace Lesson_8_1
                 Console.WriteLine("Введите имя процесса или его ID");
                 processNameorId = Console.ReadLine();
                 Console.Clear();
-                //Console.WriteLine("Процесс не найден");
-                //ListProcess(sysprocess);
+                
+                
             } while (SearchProcess(sysprocess, processNameorId) == false);
 
 
